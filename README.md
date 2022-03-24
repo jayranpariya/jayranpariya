@@ -66,8 +66,6 @@ const anmol = {
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayranpariya&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/jayranpariya)
-
 ---
 <h4 align="center">Top langs :tongue:</h4>
 
