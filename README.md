@@ -28,7 +28,7 @@ const anmol = {
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "👀 I am developing e-commerce-api , 🌱 I’m currently focusing on DSA",
+    currentProject: "👀 I am developing instagram_flutter, 🌱 I’m currently focusing on DSA",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
