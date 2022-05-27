@@ -12,7 +12,7 @@
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "Go" , "C++" , "Dart"],
-    askMeAbout: ["web dev", "ml", "app dev", "devops,"photography"],
+    askMeAbout: ["web dev", "ml", "app dev", "devops","photography"],
     technologies: {
         mobileApp: ["Flutter App"],
         frontEnd: {
